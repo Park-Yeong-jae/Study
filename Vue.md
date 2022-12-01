@@ -16,3 +16,9 @@
 ### 6) 프로젝트로 이동 후 서버 실행
   - cd [ 프로젝트 명 ]
   - npm run serve
+
+
+
+
+### 참고문헌
+  - https://onethejay.tistory.com/58
